@@ -1,0 +1,22 @@
+endpoint: https://api-web.nhle.com/
+
+/v1/player/{player}/game-log/now                        get game log for a player id for current season only
+/v1/player/{player}/game-log/{season}/{game-type}       get game log for a player id for a chosen season
+
+/v1/standings/now           get team standings and detailed team stats
+/v1/standings/{date}        get team standings and detailed team stats at a certain date
+/v1/club-stats/{team}/now   get list of players on a team and some stats for each player
+/v1/roster/{team}/current   get roster of a team and detailed player data (handedness, height, etc.)
+
+/v1/score/now               get all matches today and live score updates
+/v1/gamecenter/{game-id}/boxscore       get official boxscore for a specific game
+
+/v1/season                  get list of all season ids (start year, end year)
+/v1/meta                    get basic information about a player or team
+/v1/meta/game/{game-id}     get basic information about a game
+
+endpoint: https://api.nhle.com/stats/rest/
+
+/{lang}/config          get info about all available commands
+/ping                   ping server to check connectivity
+/{lang}/glossary        glossary of all stat terms
