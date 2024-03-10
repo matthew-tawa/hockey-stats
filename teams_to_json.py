@@ -9,7 +9,7 @@ parsed = json.loads(raw)
 num_teams = parsed["total"]
 data = parsed["data"]
 
-teams = {team["teamId"]: team["teamFullName"] for team in data}
+teams = {team["teamId"]: {"name":team["teamFullName"], "code":""} for team in data}
 
 teams_json = json.dumps(teams, indent=4)
 

@@ -6,7 +6,8 @@ class OnlineDatabase:
     endpoint1 = "https://api.nhle.com/stats/rest"
     lang = "en"
     
-    # 
+    # private method
+    # used by other functions to perform https requests
     def __access_odb(self, url: str) -> json:
         raw = requests.get(url).content
         return json.loads(raw)
@@ -38,6 +39,13 @@ class OnlineDatabase:
 
     # get stats about a team
     def get_team_stats(self):
+        pass
+
+    # get team roster for a given season
+    # team  : team code to check
+    # season: season to check 
+    # return: tbd
+    def get_team_roster(self):
         pass
 
 

@@ -25,7 +25,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
-url = 'https://www.quanthockey.com/game-logs/en/game-log.php?player=41629&season=2023-24&st=r'
+url = 'https://api-web.nhle.com/v1/scoreboard/TOR/now'
 html = requests.get(url).content
 df_list = pd.read_html(html)
 df = df_list[-1]

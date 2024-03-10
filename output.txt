@@ -1,837 +1,723 @@
 {
-    "data": [
+    "forwards": [
         {
-            "faceoffWinPct": 0.539036,
-            "gamesPlayed": 64,
-            "goalsAgainst": 223,
-            "goalsAgainstPerGame": 3.48437,
-            "goalsFor": 211,
-            "goalsForPerGame": 3.29687,
-            "losses": 29,
-            "otLosses": 4,
-            "penaltyKillNetPct": 0.806282,
-            "penaltyKillPct": 0.790576,
-            "pointPct": 0.51562,
-            "points": 66,
-            "powerPlayNetPct": 0.188775,
-            "powerPlayPct": 0.224489,
-            "regulationAndOtWins": 31,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.54687,
-            "shotsForPerGame": 32.04687,
-            "teamFullName": "New Jersey Devils",
-            "teamId": 1,
-            "ties": null,
-            "wins": 31,
-            "winsInRegulation": 26,
-            "winsInShootout": 0
+            "id": 8477479,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477479.png",
+            "firstName": {
+                "default": "Tyler"
+            },
+            "lastName": {
+                "default": "Bertuzzi"
+            },
+            "sweaterNumber": 59,
+            "positionCode": "L",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 200,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 91,
+            "birthDate": "1995-02-24",
+            "birthCity": {
+                "default": "Sudbury"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
         },
         {
-            "faceoffWinPct": 0.514117,
-            "gamesPlayed": 62,
-            "goalsAgainst": 201,
-            "goalsAgainstPerGame": 3.24193,
-            "goalsFor": 190,
-            "goalsForPerGame": 3.06451,
-            "losses": 20,
-            "otLosses": 14,
-            "penaltyKillNetPct": 0.763736,
-            "penaltyKillPct": 0.714286,
-            "pointPct": 0.56451,
-            "points": 70,
-            "powerPlayNetPct": 0.217647,
-            "powerPlayPct": 0.229411,
-            "regulationAndOtWins": 27,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 33.35483,
-            "shotsForPerGame": 30.27419,
-            "teamFullName": "New York Islanders",
-            "teamId": 2,
-            "ties": null,
-            "wins": 28,
-            "winsInRegulation": 20,
-            "winsInShootout": 1
+            "id": 8480980,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8480980.png",
+            "firstName": {
+                "default": "Connor"
+            },
+            "lastName": {
+                "default": "Dewar"
+            },
+            "sweaterNumber": 24,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 70,
+            "weightInPounds": 183,
+            "heightInCentimeters": 178,
+            "weightInKilograms": 83,
+            "birthDate": "1999-06-26",
+            "birthCity": {
+                "default": "The Pas"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Manitoba"
+            }
         },
         {
-            "faceoffWinPct": 0.527507,
-            "gamesPlayed": 63,
-            "goalsAgainst": 169,
-            "goalsAgainstPerGame": 2.68253,
-            "goalsFor": 209,
-            "goalsForPerGame": 3.31746,
-            "losses": 18,
-            "otLosses": 4,
-            "penaltyKillNetPct": 0.855555,
-            "penaltyKillPct": 0.833334,
-            "pointPct": 0.68253,
-            "points": 86,
-            "powerPlayNetPct": 0.23383,
-            "powerPlayPct": 0.258706,
-            "regulationAndOtWins": 40,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.5873,
-            "shotsForPerGame": 31.12698,
-            "teamFullName": "New York Rangers",
-            "teamId": 3,
-            "ties": null,
-            "wins": 41,
-            "winsInRegulation": 33,
-            "winsInShootout": 1
+            "id": 8477503,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477503.png",
+            "firstName": {
+                "default": "Max"
+            },
+            "lastName": {
+                "default": "Domi"
+            },
+            "sweaterNumber": 11,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 70,
+            "weightInPounds": 208,
+            "heightInCentimeters": 178,
+            "weightInKilograms": 94,
+            "birthDate": "1995-03-02",
+            "birthCity": {
+                "default": "Winnipeg"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Manitoba"
+            }
         },
         {
-            "faceoffWinPct": 0.49384,
-            "gamesPlayed": 65,
-            "goalsAgainst": 191,
-            "goalsAgainstPerGame": 2.93846,
-            "goalsFor": 188,
-            "goalsForPerGame": 2.8923,
-            "losses": 24,
-            "otLosses": 8,
-            "penaltyKillNetPct": 0.921951,
-            "penaltyKillPct": 0.853659,
-            "pointPct": 0.56923,
-            "points": 74,
-            "powerPlayNetPct": 0.112195,
-            "powerPlayPct": 0.126829,
-            "regulationAndOtWins": 29,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 27.70769,
-            "shotsForPerGame": 33.30769,
-            "teamFullName": "Philadelphia Flyers",
-            "teamId": 4,
-            "ties": null,
-            "wins": 33,
-            "winsInRegulation": 25,
-            "winsInShootout": 4
+            "id": 8479393,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8479393.png",
+            "firstName": {
+                "default": "Noah"
+            },
+            "lastName": {
+                "default": "Gregor"
+            },
+            "sweaterNumber": 18,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 192,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 87,
+            "birthDate": "1998-07-28",
+            "birthCity": {
+                "default": "Beaumont"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Alberta"
+            }
         },
         {
-            "faceoffWinPct": 0.550176,
-            "gamesPlayed": 63,
-            "goalsAgainst": 182,
-            "goalsAgainstPerGame": 2.88888,
-            "goalsFor": 178,
-            "goalsForPerGame": 2.82539,
-            "losses": 27,
-            "otLosses": 8,
-            "penaltyKillNetPct": 0.838541,
-            "penaltyKillPct": 0.822917,
-            "pointPct": 0.50793,
-            "points": 64,
-            "powerPlayNetPct": 0.099056,
-            "powerPlayPct": 0.146226,
-            "regulationAndOtWins": 26,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.14285,
-            "shotsForPerGame": 33.20634,
-            "teamFullName": "Pittsburgh Penguins",
-            "teamId": 5,
-            "ties": null,
-            "wins": 28,
-            "winsInRegulation": 23,
-            "winsInShootout": 2
+            "id": 8480995,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8480995.png",
+            "firstName": {
+                "default": "Pontus"
+            },
+            "lastName": {
+                "default": "Holmberg"
+            },
+            "sweaterNumber": 29,
+            "positionCode": "R",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 188,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 85,
+            "birthDate": "1999-03-09",
+            "birthCity": {
+                "default": "Vasteras",
+                "fi": "V\u00e4ster\u00e5s",
+                "sv": "V\u00e4ster\u00e5s"
+            },
+            "birthCountry": "SWE"
         },
         {
-            "faceoffWinPct": 0.491984,
-            "gamesPlayed": 66,
-            "goalsAgainst": 176,
-            "goalsAgainstPerGame": 2.66666,
-            "goalsFor": 219,
-            "goalsForPerGame": 3.31818,
-            "losses": 13,
-            "otLosses": 15,
-            "penaltyKillNetPct": 0.840707,
-            "penaltyKillPct": 0.818585,
-            "pointPct": 0.68939,
-            "points": 91,
-            "powerPlayNetPct": 0.225,
-            "powerPlayPct": 0.24,
-            "regulationAndOtWins": 35,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 31.48484,
-            "shotsForPerGame": 29.81818,
-            "teamFullName": "Boston Bruins",
-            "teamId": 6,
-            "ties": null,
-            "wins": 38,
-            "winsInRegulation": 30,
-            "winsInShootout": 3
+            "id": 8475714,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8475714.png",
+            "firstName": {
+                "default": "Calle"
+            },
+            "lastName": {
+                "default": "Jarnkrok",
+                "cs": "J\u00e4rnkrok",
+                "fi": "J\u00e4rnkrok",
+                "sk": "J\u00e4rnkrok"
+            },
+            "sweaterNumber": 19,
+            "positionCode": "C",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 190,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 86,
+            "birthDate": "1991-09-25",
+            "birthCity": {
+                "default": "Gavle"
+            },
+            "birthCountry": "SWE"
         },
         {
-            "faceoffWinPct": 0.457931,
-            "gamesPlayed": 65,
-            "goalsAgainst": 194,
-            "goalsAgainstPerGame": 2.98461,
-            "goalsFor": 187,
-            "goalsForPerGame": 2.87692,
-            "losses": 30,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.816326,
-            "penaltyKillPct": 0.785715,
-            "pointPct": 0.5,
-            "points": 65,
-            "powerPlayNetPct": 0.120218,
-            "powerPlayPct": 0.169398,
-            "regulationAndOtWins": 28,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.07692,
-            "shotsForPerGame": 31.2,
-            "teamFullName": "Buffalo Sabres",
-            "teamId": 7,
-            "ties": null,
-            "wins": 30,
-            "winsInRegulation": 24,
-            "winsInShootout": 2
+            "id": 8480144,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8480144.png",
+            "firstName": {
+                "default": "David"
+            },
+            "lastName": {
+                "default": "Kampf",
+                "cs": "K\u00e4mpf",
+                "fi": "K\u00e4mpf",
+                "sk": "K\u00e4mpf"
+            },
+            "sweaterNumber": 64,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 190,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 86,
+            "birthDate": "1995-01-12",
+            "birthCity": {
+                "default": "Chomutov"
+            },
+            "birthCountry": "CZE"
         },
         {
-            "faceoffWinPct": 0.520439,
-            "gamesPlayed": 64,
-            "goalsAgainst": 223,
-            "goalsAgainstPerGame": 3.48437,
-            "goalsFor": 176,
-            "goalsForPerGame": 2.75,
-            "losses": 30,
-            "otLosses": 10,
-            "penaltyKillNetPct": 0.769585,
-            "penaltyKillPct": 0.751153,
-            "pointPct": 0.45312,
-            "points": 58,
-            "powerPlayNetPct": 0.134615,
-            "powerPlayPct": 0.1875,
-            "regulationAndOtWins": 20,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 33.21875,
-            "shotsForPerGame": 28.35937,
-            "teamFullName": "Montr\u00e9al Canadiens",
-            "teamId": 8,
-            "ties": null,
-            "wins": 24,
-            "winsInRegulation": 14,
-            "winsInShootout": 4
+            "id": 8482720,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8482720.png",
+            "firstName": {
+                "default": "Matthew"
+            },
+            "lastName": {
+                "default": "Knies"
+            },
+            "sweaterNumber": 23,
+            "positionCode": "L",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 217,
+            "heightInCentimeters": 191,
+            "weightInKilograms": 98,
+            "birthDate": "2002-10-17",
+            "birthCity": {
+                "default": "Phoenix"
+            },
+            "birthCountry": "USA",
+            "birthStateProvince": {
+                "default": "Arizona"
+            }
         },
         {
-            "faceoffWinPct": 0.511666,
-            "gamesPlayed": 62,
-            "goalsAgainst": 220,
-            "goalsAgainstPerGame": 3.54838,
-            "goalsFor": 198,
-            "goalsForPerGame": 3.19354,
-            "losses": 33,
-            "otLosses": 4,
-            "penaltyKillNetPct": 0.758064,
-            "penaltyKillPct": 0.73656,
-            "pointPct": 0.43548,
-            "points": 54,
-            "powerPlayNetPct": 0.147465,
-            "powerPlayPct": 0.165898,
-            "regulationAndOtWins": 23,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.77419,
-            "shotsForPerGame": 32.20967,
-            "teamFullName": "Ottawa Senators",
-            "teamId": 9,
-            "ties": null,
-            "wins": 25,
-            "winsInRegulation": 19,
-            "winsInShootout": 2
+            "id": 8478483,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8478483.png",
+            "firstName": {
+                "default": "Mitch"
+            },
+            "lastName": {
+                "default": "Marner"
+            },
+            "sweaterNumber": 16,
+            "positionCode": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 180,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 82,
+            "birthDate": "1997-05-05",
+            "birthCity": {
+                "default": "Markham"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
         },
         {
-            "faceoffWinPct": 0.5406,
-            "gamesPlayed": 64,
-            "goalsAgainst": 200,
-            "goalsAgainstPerGame": 3.125,
-            "goalsFor": 226,
-            "goalsForPerGame": 3.53125,
-            "losses": 19,
-            "otLosses": 8,
-            "penaltyKillNetPct": 0.807909,
-            "penaltyKillPct": 0.774012,
-            "pointPct": 0.64062,
-            "points": 82,
-            "powerPlayNetPct": 0.227777,
-            "powerPlayPct": 0.272222,
-            "regulationAndOtWins": 32,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.71875,
-            "shotsForPerGame": 32.6875,
-            "teamFullName": "Toronto Maple Leafs",
-            "teamId": 10,
-            "ties": null,
-            "wins": 37,
-            "winsInRegulation": 25,
-            "winsInShootout": 5
+            "id": 8479318,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8479318.png",
+            "firstName": {
+                "default": "Auston"
+            },
+            "lastName": {
+                "default": "Matthews"
+            },
+            "sweaterNumber": 34,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 215,
+            "heightInCentimeters": 191,
+            "weightInKilograms": 98,
+            "birthDate": "1997-09-17",
+            "birthCity": {
+                "default": "San Ramon"
+            },
+            "birthCountry": "USA",
+            "birthStateProvince": {
+                "default": "California",
+                "fr": "Californie",
+                "sk": "Kalifornia",
+                "sv": "Kalifornien"
+            }
         },
         {
-            "faceoffWinPct": 0.52675,
-            "gamesPlayed": 63,
-            "goalsAgainst": 171,
-            "goalsAgainstPerGame": 2.71428,
-            "goalsFor": 208,
-            "goalsForPerGame": 3.30158,
-            "losses": 19,
-            "otLosses": 6,
-            "penaltyKillNetPct": 0.892156,
-            "penaltyKillPct": 0.84804,
-            "pointPct": 0.65079,
-            "points": 82,
-            "powerPlayNetPct": 0.224489,
-            "powerPlayPct": 0.265306,
-            "regulationAndOtWins": 37,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 25.53968,
-            "shotsForPerGame": 32.65079,
-            "teamFullName": "Carolina Hurricanes",
-            "teamId": 12,
-            "ties": null,
-            "wins": 38,
-            "winsInRegulation": 31,
-            "winsInShootout": 1
+            "id": 8482259,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8482259.png",
+            "firstName": {
+                "default": "Bobby"
+            },
+            "lastName": {
+                "default": "McMann"
+            },
+            "sweaterNumber": 74,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 210,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 95,
+            "birthDate": "1996-06-15",
+            "birthCity": {
+                "default": "Wainwright"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Alberta"
+            }
         },
         {
-            "faceoffWinPct": 0.517058,
-            "gamesPlayed": 65,
-            "goalsAgainst": 152,
-            "goalsAgainstPerGame": 2.33846,
-            "goalsFor": 215,
-            "goalsForPerGame": 3.30769,
-            "losses": 17,
-            "otLosses": 4,
-            "penaltyKillNetPct": 0.846511,
-            "penaltyKillPct": 0.818605,
-            "pointPct": 0.70769,
-            "points": 92,
-            "powerPlayNetPct": 0.225352,
-            "powerPlayPct": 0.26291,
-            "regulationAndOtWins": 42,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 27.66153,
-            "shotsForPerGame": 33.95384,
-            "teamFullName": "Florida Panthers",
-            "teamId": 13,
-            "ties": null,
-            "wins": 44,
-            "winsInRegulation": 36,
-            "winsInShootout": 2
+            "id": 8477939,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8477939.png",
+            "firstName": {
+                "default": "William"
+            },
+            "lastName": {
+                "default": "Nylander"
+            },
+            "sweaterNumber": 88,
+            "positionCode": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 202,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 92,
+            "birthDate": "1996-05-01",
+            "birthCity": {
+                "default": "Calgary"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Alberta"
+            }
         },
         {
-            "faceoffWinPct": 0.513597,
-            "gamesPlayed": 65,
-            "goalsAgainst": 219,
-            "goalsAgainstPerGame": 3.36923,
-            "goalsFor": 221,
-            "goalsForPerGame": 3.4,
-            "losses": 25,
-            "otLosses": 6,
-            "penaltyKillNetPct": 0.824175,
-            "penaltyKillPct": 0.807693,
-            "pointPct": 0.56923,
-            "points": 74,
-            "powerPlayNetPct": 0.271794,
-            "powerPlayPct": 0.292307,
-            "regulationAndOtWins": 31,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.41538,
-            "shotsForPerGame": 29.30769,
-            "teamFullName": "Tampa Bay Lightning",
-            "teamId": 14,
-            "ties": null,
-            "wins": 34,
-            "winsInRegulation": 27,
-            "winsInShootout": 3
+            "id": 8471817,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8471817.png",
+            "firstName": {
+                "default": "Ryan"
+            },
+            "lastName": {
+                "default": "Reaves"
+            },
+            "sweaterNumber": 75,
+            "positionCode": "R",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 226,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 103,
+            "birthDate": "1987-01-20",
+            "birthCity": {
+                "default": "Winnipeg"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Manitoba"
+            }
         },
         {
-            "faceoffWinPct": 0.467505,
-            "gamesPlayed": 62,
-            "goalsAgainst": 190,
-            "goalsAgainstPerGame": 3.06451,
-            "goalsFor": 167,
-            "goalsForPerGame": 2.69354,
-            "losses": 23,
-            "otLosses": 9,
-            "penaltyKillNetPct": 0.817708,
-            "penaltyKillPct": 0.802084,
-            "pointPct": 0.55645,
-            "points": 69,
-            "powerPlayNetPct": 0.162011,
-            "powerPlayPct": 0.189944,
-            "regulationAndOtWins": 27,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.56451,
-            "shotsForPerGame": 27.19354,
-            "teamFullName": "Washington Capitals",
-            "teamId": 15,
-            "ties": null,
-            "wins": 30,
-            "winsInRegulation": 24,
-            "winsInShootout": 3
-        },
-        {
-            "faceoffWinPct": 0.463449,
-            "gamesPlayed": 64,
-            "goalsAgainst": 228,
-            "goalsAgainstPerGame": 3.5625,
-            "goalsFor": 130,
-            "goalsForPerGame": 2.03125,
-            "losses": 43,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.790322,
-            "penaltyKillPct": 0.774194,
-            "pointPct": 0.28906,
-            "points": 37,
-            "powerPlayNetPct": 0.110526,
-            "powerPlayPct": 0.142105,
-            "regulationAndOtWins": 15,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 32.60937,
-            "shotsForPerGame": 26.71875,
-            "teamFullName": "Chicago Blackhawks",
-            "teamId": 16,
-            "ties": null,
-            "wins": 16,
-            "winsInRegulation": 11,
-            "winsInShootout": 1
-        },
-        {
-            "faceoffWinPct": 0.497673,
-            "gamesPlayed": 64,
-            "goalsAgainst": 211,
-            "goalsAgainstPerGame": 3.29687,
-            "goalsFor": 219,
-            "goalsForPerGame": 3.42187,
-            "losses": 25,
-            "otLosses": 6,
-            "penaltyKillNetPct": 0.838383,
-            "penaltyKillPct": 0.803031,
-            "pointPct": 0.5625,
-            "points": 72,
-            "powerPlayNetPct": 0.199115,
-            "powerPlayPct": 0.230088,
-            "regulationAndOtWins": 31,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 32.35937,
-            "shotsForPerGame": 28.85937,
-            "teamFullName": "Detroit Red Wings",
-            "teamId": 17,
-            "ties": null,
-            "wins": 33,
-            "winsInRegulation": 23,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.499186,
-            "gamesPlayed": 65,
-            "goalsAgainst": 197,
-            "goalsAgainstPerGame": 3.03076,
-            "goalsFor": 206,
-            "goalsForPerGame": 3.16923,
-            "losses": 25,
-            "otLosses": 3,
-            "penaltyKillNetPct": 0.8,
-            "penaltyKillPct": 0.77,
-            "pointPct": 0.5923,
-            "points": 77,
-            "powerPlayNetPct": 0.180995,
-            "powerPlayPct": 0.199095,
-            "regulationAndOtWins": 35,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.32307,
-            "shotsForPerGame": 31.2923,
-            "teamFullName": "Nashville Predators",
-            "teamId": 18,
-            "ties": null,
-            "wins": 37,
-            "winsInRegulation": 30,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.487631,
-            "gamesPlayed": 64,
-            "goalsAgainst": 198,
-            "goalsAgainstPerGame": 3.09375,
-            "goalsFor": 176,
-            "goalsForPerGame": 2.75,
-            "losses": 29,
-            "otLosses": 3,
-            "penaltyKillNetPct": 0.847058,
-            "penaltyKillPct": 0.782353,
-            "pointPct": 0.52343,
-            "points": 67,
-            "powerPlayNetPct": 0.137055,
-            "powerPlayPct": 0.167512,
-            "regulationAndOtWins": 29,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 32.26562,
-            "shotsForPerGame": 28.54687,
-            "teamFullName": "St. Louis Blues",
-            "teamId": 19,
-            "ties": null,
-            "wins": 32,
-            "winsInRegulation": 24,
-            "winsInShootout": 3
-        },
-        {
-            "faceoffWinPct": 0.5,
-            "gamesPlayed": 63,
-            "goalsAgainst": 195,
-            "goalsAgainstPerGame": 3.09523,
-            "goalsFor": 198,
-            "goalsForPerGame": 3.14285,
-            "losses": 27,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.889473,
-            "penaltyKillPct": 0.836843,
-            "pointPct": 0.53174,
-            "points": 67,
-            "powerPlayNetPct": 0.095959,
-            "powerPlayPct": 0.146464,
-            "regulationAndOtWins": 31,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.88888,
-            "shotsForPerGame": 31.33333,
-            "teamFullName": "Calgary Flames",
-            "teamId": 20,
-            "ties": null,
-            "wins": 31,
-            "winsInRegulation": 26,
-            "winsInShootout": 0
-        },
-        {
-            "faceoffWinPct": 0.480231,
-            "gamesPlayed": 65,
-            "goalsAgainst": 196,
-            "goalsAgainstPerGame": 3.01538,
-            "goalsFor": 239,
-            "goalsForPerGame": 3.67692,
-            "losses": 20,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.841121,
-            "penaltyKillPct": 0.808412,
-            "pointPct": 0.65384,
-            "points": 85,
-            "powerPlayNetPct": 0.21834,
-            "powerPlayPct": 0.244541,
-            "regulationAndOtWins": 38,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.61538,
-            "shotsForPerGame": 32.43076,
-            "teamFullName": "Colorado Avalanche",
-            "teamId": 21,
-            "ties": null,
-            "wins": 40,
-            "winsInRegulation": 35,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.526171,
-            "gamesPlayed": 63,
-            "goalsAgainst": 179,
-            "goalsAgainstPerGame": 2.84126,
-            "goalsFor": 220,
-            "goalsForPerGame": 3.49206,
-            "losses": 21,
-            "otLosses": 3,
-            "penaltyKillNetPct": 0.833333,
-            "penaltyKillPct": 0.79902,
-            "pointPct": 0.64285,
-            "points": 81,
-            "powerPlayNetPct": 0.235294,
-            "powerPlayPct": 0.256684,
-            "regulationAndOtWins": 37,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 28.50793,
-            "shotsForPerGame": 33.5238,
-            "teamFullName": "Edmonton Oilers",
-            "teamId": 22,
-            "ties": null,
-            "wins": 39,
-            "winsInRegulation": 31,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.513252,
-            "gamesPlayed": 66,
-            "goalsAgainst": 176,
-            "goalsAgainstPerGame": 2.66666,
-            "goalsFor": 234,
-            "goalsForPerGame": 3.54545,
-            "losses": 17,
-            "otLosses": 7,
-            "penaltyKillNetPct": 0.81592,
-            "penaltyKillPct": 0.791045,
-            "pointPct": 0.68939,
-            "points": 91,
-            "powerPlayNetPct": 0.200956,
-            "powerPlayPct": 0.229665,
-            "regulationAndOtWins": 42,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.27272,
-            "shotsForPerGame": 28.48484,
-            "teamFullName": "Vancouver Canucks",
-            "teamId": 23,
-            "ties": null,
-            "wins": 42,
-            "winsInRegulation": 36,
-            "winsInShootout": 0
-        },
-        {
-            "faceoffWinPct": 0.48429,
-            "gamesPlayed": 63,
-            "goalsAgainst": 222,
-            "goalsAgainstPerGame": 3.5238,
-            "goalsFor": 165,
-            "goalsForPerGame": 2.61904,
-            "losses": 37,
-            "otLosses": 3,
-            "penaltyKillNetPct": 0.782608,
-            "penaltyKillPct": 0.750989,
-            "pointPct": 0.38888,
-            "points": 49,
-            "powerPlayNetPct": 0.172774,
-            "powerPlayPct": 0.193717,
-            "regulationAndOtWins": 22,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 33.23809,
-            "shotsForPerGame": 27.44444,
-            "teamFullName": "Anaheim Ducks",
-            "teamId": 24,
-            "ties": null,
-            "wins": 23,
-            "winsInRegulation": 17,
-            "winsInShootout": 1
-        },
-        {
-            "faceoffWinPct": 0.538617,
-            "gamesPlayed": 66,
-            "goalsAgainst": 197,
-            "goalsAgainstPerGame": 2.98484,
-            "goalsFor": 239,
-            "goalsForPerGame": 3.62121,
-            "losses": 17,
-            "otLosses": 9,
-            "penaltyKillNetPct": 0.871287,
-            "penaltyKillPct": 0.816832,
-            "pointPct": 0.67424,
-            "points": 89,
-            "powerPlayNetPct": 0.21875,
-            "powerPlayPct": 0.239583,
-            "regulationAndOtWins": 37,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.45454,
-            "shotsForPerGame": 31.33333,
-            "teamFullName": "Dallas Stars",
-            "teamId": 25,
-            "ties": null,
-            "wins": 40,
-            "winsInRegulation": 29,
-            "winsInShootout": 3
-        },
-        {
-            "faceoffWinPct": 0.503324,
-            "gamesPlayed": 63,
-            "goalsAgainst": 166,
-            "goalsAgainstPerGame": 2.63492,
-            "goalsFor": 192,
-            "goalsForPerGame": 3.04761,
-            "losses": 20,
-            "otLosses": 11,
-            "penaltyKillNetPct": 0.91,
-            "penaltyKillPct": 0.86,
-            "pointPct": 0.59523,
-            "points": 75,
-            "powerPlayNetPct": 0.190721,
-            "powerPlayPct": 0.221649,
-            "regulationAndOtWins": 30,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 28.46031,
-            "shotsForPerGame": 32.96825,
-            "teamFullName": "Los Angeles Kings",
-            "teamId": 26,
-            "ties": null,
-            "wins": 32,
-            "winsInRegulation": 27,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.493274,
-            "gamesPlayed": 63,
-            "goalsAgainst": 245,
-            "goalsAgainstPerGame": 3.88888,
-            "goalsFor": 138,
-            "goalsForPerGame": 2.19047,
-            "losses": 40,
-            "otLosses": 7,
-            "penaltyKillNetPct": 0.75,
-            "penaltyKillPct": 0.735295,
-            "pointPct": 0.30952,
-            "points": 39,
-            "powerPlayNetPct": 0.16129,
-            "powerPlayPct": 0.206451,
-            "regulationAndOtWins": 15,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 35.41269,
-            "shotsForPerGame": 25.31746,
-            "teamFullName": "San Jose Sharks",
-            "teamId": 28,
-            "ties": null,
-            "wins": 16,
-            "winsInRegulation": 12,
-            "winsInShootout": 1
-        },
-        {
-            "faceoffWinPct": 0.467217,
-            "gamesPlayed": 64,
-            "goalsAgainst": 231,
-            "goalsAgainstPerGame": 3.60937,
-            "goalsFor": 190,
-            "goalsForPerGame": 2.96875,
-            "losses": 32,
-            "otLosses": 10,
-            "penaltyKillNetPct": 0.788043,
-            "penaltyKillPct": 0.766305,
-            "pointPct": 0.42187,
-            "points": 54,
-            "powerPlayNetPct": 0.119318,
-            "powerPlayPct": 0.142045,
-            "regulationAndOtWins": 20,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 33.57812,
-            "shotsForPerGame": 30.26562,
-            "teamFullName": "Columbus Blue Jackets",
-            "teamId": 29,
-            "ties": null,
-            "wins": 22,
-            "winsInRegulation": 17,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.470507,
-            "gamesPlayed": 64,
-            "goalsAgainst": 210,
-            "goalsAgainstPerGame": 3.28125,
-            "goalsFor": 197,
-            "goalsForPerGame": 3.07812,
-            "losses": 27,
-            "otLosses": 7,
-            "penaltyKillNetPct": 0.75799,
-            "penaltyKillPct": 0.744293,
-            "pointPct": 0.52343,
-            "points": 67,
-            "powerPlayNetPct": 0.18018,
-            "powerPlayPct": 0.216216,
-            "regulationAndOtWins": 27,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.20312,
-            "shotsForPerGame": 30.03125,
-            "teamFullName": "Minnesota Wild",
-            "teamId": 30,
-            "ties": null,
-            "wins": 30,
-            "winsInRegulation": 24,
-            "winsInShootout": 3
-        },
-        {
-            "faceoffWinPct": 0.469241,
-            "gamesPlayed": 63,
-            "goalsAgainst": 152,
-            "goalsAgainstPerGame": 2.41269,
-            "goalsFor": 193,
-            "goalsForPerGame": 3.06349,
-            "losses": 18,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.78531,
-            "penaltyKillPct": 0.768362,
-            "pointPct": 0.6746,
-            "points": 85,
-            "powerPlayNetPct": 0.152173,
-            "powerPlayPct": 0.179347,
-            "regulationAndOtWins": 40,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 29.31746,
-            "shotsForPerGame": 30.7619,
-            "teamFullName": "Winnipeg Jets",
-            "teamId": 52,
-            "ties": null,
-            "wins": 40,
-            "winsInRegulation": 35,
-            "winsInShootout": 0
-        },
-        {
-            "faceoffWinPct": 0.458275,
-            "gamesPlayed": 64,
-            "goalsAgainst": 211,
-            "goalsAgainstPerGame": 3.29687,
-            "goalsFor": 186,
-            "goalsForPerGame": 2.90625,
-            "losses": 33,
-            "otLosses": 5,
-            "penaltyKillNetPct": 0.780952,
-            "penaltyKillPct": 0.761905,
-            "pointPct": 0.44531,
-            "points": 57,
-            "powerPlayNetPct": 0.197969,
-            "powerPlayPct": 0.228426,
-            "regulationAndOtWins": 24,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 31.71875,
-            "shotsForPerGame": 27.25,
-            "teamFullName": "Arizona Coyotes",
-            "teamId": 53,
-            "ties": null,
-            "wins": 26,
-            "winsInRegulation": 21,
-            "winsInShootout": 2
-        },
-        {
-            "faceoffWinPct": 0.494354,
-            "gamesPlayed": 64,
-            "goalsAgainst": 189,
-            "goalsAgainstPerGame": 2.95312,
-            "goalsFor": 203,
-            "goalsForPerGame": 3.17187,
-            "losses": 23,
-            "otLosses": 7,
-            "penaltyKillNetPct": 0.842105,
-            "penaltyKillPct": 0.80117,
-            "pointPct": 0.58593,
-            "points": 75,
-            "powerPlayNetPct": 0.162561,
-            "powerPlayPct": 0.192118,
-            "regulationAndOtWins": 30,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.9375,
-            "shotsForPerGame": 31.01562,
-            "teamFullName": "Vegas Golden Knights",
-            "teamId": 54,
-            "ties": null,
-            "wins": 34,
-            "winsInRegulation": 27,
-            "winsInShootout": 4
-        },
-        {
-            "faceoffWinPct": 0.473773,
-            "gamesPlayed": 63,
-            "goalsAgainst": 175,
-            "goalsAgainstPerGame": 2.77777,
-            "goalsFor": 171,
-            "goalsForPerGame": 2.71428,
-            "losses": 24,
-            "otLosses": 11,
-            "penaltyKillNetPct": 0.816091,
-            "penaltyKillPct": 0.793104,
-            "pointPct": 0.53174,
-            "points": 67,
-            "powerPlayNetPct": 0.176136,
-            "powerPlayPct": 0.210227,
-            "regulationAndOtWins": 25,
-            "seasonId": 20232024,
-            "shotsAgainstPerGame": 30.01587,
-            "shotsForPerGame": 28.77777,
-            "teamFullName": "Seattle Kraken",
-            "teamId": 55,
-            "ties": null,
-            "wins": 28,
-            "winsInRegulation": 22,
-            "winsInShootout": 3
+            "id": 8475166,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8475166.png",
+            "firstName": {
+                "default": "John"
+            },
+            "lastName": {
+                "default": "Tavares"
+            },
+            "sweaterNumber": 91,
+            "positionCode": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 211,
+            "heightInCentimeters": 185,
+            "weightInKilograms": 96,
+            "birthDate": "1990-09-20",
+            "birthCity": {
+                "default": "Mississauga"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
         }
     ],
-    "total": 32
+    "defensemen": [
+        {
+            "id": 8481122,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8481122.png",
+            "firstName": {
+                "default": "Simon"
+            },
+            "lastName": {
+                "default": "Benoit"
+            },
+            "sweaterNumber": 2,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 205,
+            "heightInCentimeters": 193,
+            "weightInKilograms": 93,
+            "birthDate": "1998-09-19",
+            "birthCity": {
+                "default": "Laval"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Quebec",
+                "fr": "Qu\u00e9bec"
+            }
+        },
+        {
+            "id": 8474673,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8474673.png",
+            "firstName": {
+                "default": "TJ"
+            },
+            "lastName": {
+                "default": "Brodie"
+            },
+            "sweaterNumber": 78,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 187,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 85,
+            "birthDate": "1990-06-07",
+            "birthCity": {
+                "default": "Chatham"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
+        },
+        {
+            "id": 8476441,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8476441.png",
+            "firstName": {
+                "default": "Joel"
+            },
+            "lastName": {
+                "default": "Edmundson"
+            },
+            "sweaterNumber": 20,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 221,
+            "heightInCentimeters": 196,
+            "weightInKilograms": 100,
+            "birthDate": "1993-06-28",
+            "birthCity": {
+                "default": "Brandon"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Manitoba"
+            }
+        },
+        {
+            "id": 8470966,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8470966.png",
+            "firstName": {
+                "default": "Mark"
+            },
+            "lastName": {
+                "default": "Giordano"
+            },
+            "sweaterNumber": 55,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 202,
+            "heightInCentimeters": 183,
+            "weightInKilograms": 92,
+            "birthDate": "1983-10-03",
+            "birthCity": {
+                "default": "Toronto"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
+        },
+        {
+            "id": 8475906,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8475906.png",
+            "firstName": {
+                "default": "John"
+            },
+            "lastName": {
+                "default": "Klingberg"
+            },
+            "sweaterNumber": 3,
+            "positionCode": "D",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 185,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 84,
+            "birthDate": "1992-08-14",
+            "birthCity": {
+                "default": "Gothenburg",
+                "cs": "G\u00f6teborg",
+                "fi": "G\u00f6teborg",
+                "fr": "G\u00f6teborg",
+                "sk": "G\u00f6teborg",
+                "sv": "G\u00f6teborg"
+            },
+            "birthCountry": "SWE"
+        },
+        {
+            "id": 8480043,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8480043.png",
+            "firstName": {
+                "default": "Timothy"
+            },
+            "lastName": {
+                "default": "Liljegren"
+            },
+            "sweaterNumber": 37,
+            "positionCode": "D",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 190,
+            "heightInCentimeters": 185,
+            "weightInKilograms": 86,
+            "birthDate": "1999-04-30",
+            "birthCity": {
+                "default": "Kristianstad"
+            },
+            "birthCountry": "SWE"
+        },
+        {
+            "id": 8480950,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8480950.png",
+            "firstName": {
+                "default": "Ilya",
+                "cs": "Ilja",
+                "fi": "Ilja",
+                "sk": "I\u013eja"
+            },
+            "lastName": {
+                "default": "Lyubushkin",
+                "cs": "Ljubu\u0161kin",
+                "fi": "Ljubushkin",
+                "sk": "Ljubu\u0161kin"
+            },
+            "sweaterNumber": 46,
+            "positionCode": "D",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 200,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 91,
+            "birthDate": "1994-04-06",
+            "birthCity": {
+                "default": "Moscow",
+                "cs": "Moskva",
+                "de": "Moskau",
+                "fi": "Moskova",
+                "fr": "Moscou",
+                "sk": "Moskva",
+                "sv": "Moskva"
+            },
+            "birthCountry": "RUS"
+        },
+        {
+            "id": 8476931,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8476931.png",
+            "firstName": {
+                "default": "Jake"
+            },
+            "lastName": {
+                "default": "McCabe"
+            },
+            "sweaterNumber": 22,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 211,
+            "heightInCentimeters": 185,
+            "weightInKilograms": 96,
+            "birthDate": "1993-10-12",
+            "birthCity": {
+                "default": "Eau Claire"
+            },
+            "birthCountry": "USA",
+            "birthStateProvince": {
+                "default": "Wisconsin"
+            }
+        },
+        {
+            "id": 8474162,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8474162.png",
+            "firstName": {
+                "default": "Jake"
+            },
+            "lastName": {
+                "default": "Muzzin"
+            },
+            "sweaterNumber": 8,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 227,
+            "heightInCentimeters": 191,
+            "weightInKilograms": 103,
+            "birthDate": "1989-02-21",
+            "birthCity": {
+                "default": "Woodstock"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
+        },
+        {
+            "id": 8476853,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8476853.png",
+            "firstName": {
+                "default": "Morgan"
+            },
+            "lastName": {
+                "default": "Rielly"
+            },
+            "sweaterNumber": 44,
+            "positionCode": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 225,
+            "heightInCentimeters": 185,
+            "weightInKilograms": 102,
+            "birthDate": "1994-03-09",
+            "birthCity": {
+                "default": "Vancouver"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "British Columbia",
+                "fr": "Colombie-Britannique",
+                "sk": "Britsk\u00e1 Kolumbia"
+            }
+        },
+        {
+            "id": 8479982,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8479982.png",
+            "firstName": {
+                "default": "Conor"
+            },
+            "lastName": {
+                "default": "Timmins"
+            },
+            "sweaterNumber": 25,
+            "positionCode": "D",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 206,
+            "heightInCentimeters": 188,
+            "weightInKilograms": 93,
+            "birthDate": "1998-09-18",
+            "birthCity": {
+                "default": "St. Catharines"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "Ontario"
+            }
+        }
+    ],
+    "goalies": [
+        {
+            "id": 8474889,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8474889.png",
+            "firstName": {
+                "default": "Martin"
+            },
+            "lastName": {
+                "default": "Jones"
+            },
+            "sweaterNumber": 31,
+            "positionCode": "G",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 203,
+            "heightInCentimeters": 196,
+            "weightInKilograms": 92,
+            "birthDate": "1990-01-10",
+            "birthCity": {
+                "default": "North Vancouver"
+            },
+            "birthCountry": "CAN",
+            "birthStateProvince": {
+                "default": "British Columbia",
+                "fr": "Colombie-Britannique",
+                "sk": "Britsk\u00e1 Kolumbia"
+            }
+        },
+        {
+            "id": 8478492,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8478492.png",
+            "firstName": {
+                "default": "Ilya",
+                "cs": "Ilja",
+                "fi": "Ilja",
+                "sk": "I\u013eja"
+            },
+            "lastName": {
+                "default": "Samsonov"
+            },
+            "sweaterNumber": 35,
+            "positionCode": "G",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 217,
+            "heightInCentimeters": 191,
+            "weightInKilograms": 98,
+            "birthDate": "1997-02-22",
+            "birthCity": {
+                "default": "Magnitogorsk"
+            },
+            "birthCountry": "RUS"
+        },
+        {
+            "id": 8479361,
+            "headshot": "https://assets.nhle.com/mugs/nhl/20232024/TOR/8479361.png",
+            "firstName": {
+                "default": "Joseph"
+            },
+            "lastName": {
+                "default": "Woll"
+            },
+            "sweaterNumber": 60,
+            "positionCode": "G",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 202,
+            "heightInCentimeters": 191,
+            "weightInKilograms": 92,
+            "birthDate": "1998-07-12",
+            "birthCity": {
+                "default": "Dardenne Prairie"
+            },
+            "birthCountry": "USA",
+            "birthStateProvince": {
+                "default": "Missouri"
+            }
+        }
+    ]
 }

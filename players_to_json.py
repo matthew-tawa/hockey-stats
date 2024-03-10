@@ -1,24 +1,38 @@
-from pathlib import Path
+import requests
 import json
 
-# # ***** IMPORT INPUT FILE *****
-# # obtaining the proper relative path
-# script_location = Path(__file__).absolute().parent
-# file_name = 'players.txt'
-# myfile = script_location / file_name
+# importing all teams
+f = open("data/teams.json", 'r')
+teams_dict = json.load(f)
+f.close()
+teams = [teams_dict[str(id)]["code"] for id in teams_dict]
 
-# # read the file into a list, split by the newline characters
-# # note:  read_text() automatically closes file when done 
-# players = [player.split('\t') for player in myfile.read_text().split('\n')]
-# # *****************************
+players = {}
 
-# players_dict = {player[2]: {"name": player[0], "team": player[1]} for player in players}
-# myjson = json.dumps(players_dict, indent=4)
+for team in teams:
+    # fetching all team data for 2023/2024 season
+    url = f'https://api-web.nhle.com/v1/roster/{team}/current'
+    raw = requests.get(url).content
+    roster = json.loads(raw)
 
-# f = open("players.txt", 'w')
-# f.write(myjson)
+    # for all forwards, defensemen, goalies, add to players list
+    for player in roster["forwards"]:
+        players[player["id"]] = player
+        players[player["id"]]["teamCode"] = team # for each player, add attribute of teamCode
 
-with open("players.json", 'r') as myjson:
-    parsed = json.load(myjson)
+    for player in roster["defensemen"]:
+        players[player["id"]] = player
+        players[player["id"]]["teamCode"] = team
 
-print(parsed["23476"])
+    for player in roster["goalies"]:
+        players[player["id"]] = player
+        players[player["id"]]["teamCode"] = team
+
+# format for visual prettiness
+players_json = json.dumps(players, indent=4)
+
+# save file
+f = open("data/players.json", 'w')
+f.write(players_json)
+
+print("Created players.json")
