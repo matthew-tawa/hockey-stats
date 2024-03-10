@@ -1,0 +1,2062 @@
+{
+    "Quant ID": {
+        "name": "Name",
+        "team": "Team"
+    },
+    "23474": {
+        "name": "Aaron Ekblad",
+        "team": "FLA"
+    },
+    "48591": {
+        "name": "Adam Boqvist",
+        "team": "CHI"
+    },
+    "23618": {
+        "name": "Adam Erne",
+        "team": "DET"
+    },
+    "38356": {
+        "name": "Adam Fox",
+        "team": "NYR"
+    },
+    "48314": {
+        "name": "Adam Gaudette",
+        "team": "TOR"
+    },
+    "8146": {
+        "name": "Adam Henrique",
+        "team": "ANA"
+    },
+    "8244": {
+        "name": "Adam Larsson",
+        "team": "EDM"
+    },
+    "21038": {
+        "name": "Adam Lowry",
+        "team": "WPG"
+    },
+    "23476": {
+        "name": "Adam Pelech",
+        "team": "NYI"
+    },
+    "20348": {
+        "name": "Adrian Kempe",
+        "team": "LAK"
+    },
+    "6941": {
+        "name": "Alec Martinez",
+        "team": "VGK"
+    },
+    "12229": {
+        "name": "Aleksander Barkov",
+        "team": "FLA"
+    },
+    "13604": {
+        "name": "Alex Chiasson",
+        "team": "EDM"
+    },
+    "34789": {
+        "name": "Alex DeBrincat",
+        "team": "OTT"
+    },
+    "14601": {
+        "name": "Alex Galchenyuk",
+        "team": "TOR"
+    },
+    "6660": {
+        "name": "Alex Goligoski",
+        "team": "ARI"
+    },
+    "54914": {
+        "name": "Alex Iafallo",
+        "team": "LAK"
+    },
+    "13410": {
+        "name": "Alex Killorn",
+        "team": "TBL"
+    },
+    "6767": {
+        "name": "Alex Pietrangelo",
+        "team": "VGK"
+    },
+    "25247": {
+        "name": "Alex Tuch",
+        "team": "BUF"
+    },
+    "48226": {
+        "name": "Alexander Kerfoot",
+        "team": "TOR"
+    },
+    "4495": {
+        "name": "Alexander Ovechkin",
+        "team": "WSH"
+    },
+    "4857": {
+        "name": "Alexander Radulov",
+        "team": "DAL"
+    },
+    "28692": {
+        "name": "Alexander Volkov",
+        "team": "ANA"
+    },
+    "11776": {
+        "name": "Alexander Wennberg",
+        "team": "FLA"
+    },
+    "51038": {
+        "name": "Alexandre Texier",
+        "team": "CBJ"
+    },
+    "58468": {
+        "name": "Alexis Lafreni\u00c3\u00a8re",
+        "team": "NYR"
+    },
+    "25248": {
+        "name": "Anders Bjork",
+        "team": "BUF"
+    },
+    "16017": {
+        "name": "Anders Lee",
+        "team": "NYI"
+    },
+    "23590": {
+        "name": "Andre Burakovsky",
+        "team": "SEA"
+    },
+    "24643": {
+        "name": "Andreas Athanasiou",
+        "team": "CHI"
+    },
+    "14106": {
+        "name": "Andreas Johnson",
+        "team": "NJD"
+    },
+    "24849": {
+        "name": "Andrei Kuzmenko",
+        "team": "VAN"
+    },
+    "38314": {
+        "name": "Andrei Svechnikov",
+        "team": "CAR"
+    },
+    "6723": {
+        "name": "Andrew Cogliano",
+        "team": "DAL"
+    },
+    "23617": {
+        "name": "Andrew Copp",
+        "team": "DET"
+    },
+    "41335": {
+        "name": "Andrew Mangiapane",
+        "team": "CGY"
+    },
+    "28906": {
+        "name": "Anthony Beauvillier",
+        "team": "NYI"
+    },
+    "38050": {
+        "name": "Anthony Cirelli",
+        "team": "TBL"
+    },
+    "26295": {
+        "name": "Anthony DeAngelo",
+        "team": "PHI"
+    },
+    "24867": {
+        "name": "Anthony Duclair",
+        "team": "FLA"
+    },
+    "23496": {
+        "name": "Anthony Mantha",
+        "team": "WSH"
+    },
+    "3053": {
+        "name": "Anze Kopitar",
+        "team": "LAK"
+    },
+    "7563": {
+        "name": "Artemi Panarin",
+        "team": "NYR"
+    },
+    "12239": {
+        "name": "Artturi Lehkonen",
+        "team": "MTL"
+    },
+    "25342": {
+        "name": "Artyom Zub",
+        "team": "OTT"
+    },
+    "16236": {
+        "name": "Austin Watson",
+        "team": "OTT"
+    },
+    "25238": {
+        "name": "Auston Matthews",
+        "team": "TOR"
+    },
+    "25060": {
+        "name": "Barclay Goodrow",
+        "team": "NYR"
+    },
+    "31182": {
+        "name": "Blake Coleman",
+        "team": "CGY"
+    },
+    "1073": {
+        "name": "Blake Comeau",
+        "team": "DAL"
+    },
+    "60630": {
+        "name": "Blake Lizotte",
+        "team": "LAK"
+    },
+    "6751": {
+        "name": "Blake Wheeler",
+        "team": "WPG"
+    },
+    "23493": {
+        "name": "Bo Horvat",
+        "team": "VAN"
+    },
+    "6609": {
+        "name": "Bobby Ryan",
+        "team": "DET"
+    },
+    "13552": {
+        "name": "Boone Jenner",
+        "team": "CBJ"
+    },
+    "6963": {
+        "name": "Brad Marchand",
+        "team": "BOS"
+    },
+    "23614": {
+        "name": "Brady Skjei",
+        "team": "CAR"
+    },
+    "48570": {
+        "name": "Brady Tkachuk",
+        "team": "OTT"
+    },
+    "44001": {
+        "name": "Brandon Hagel",
+        "team": "CHI"
+    },
+    "27693": {
+        "name": "Brandon Montour",
+        "team": "FLA"
+    },
+    "8260": {
+        "name": "Brandon Saad",
+        "team": "COL"
+    },
+    "6769": {
+        "name": "Brandon Sutter",
+        "team": "VAN"
+    },
+    "37864": {
+        "name": "Brandon Tanev",
+        "team": "PIT"
+    },
+    "25173": {
+        "name": "Brayden Point",
+        "team": "TBL"
+    },
+    "6994": {
+        "name": "Brayden Schenn",
+        "team": "STL"
+    },
+    "14608": {
+        "name": "Brendan Gallagher",
+        "team": "MTL"
+    },
+    "37901": {
+        "name": "Brendan Lemieux",
+        "team": "LAK"
+    },
+    "9359": {
+        "name": "Brendan Smith",
+        "team": "NJD"
+    },
+    "9557": {
+        "name": "Brenden Dillon",
+        "team": "WPG"
+    },
+    "765": {
+        "name": "Brent Burns",
+        "team": "CAR"
+    },
+    "23611": {
+        "name": "Brett Pesce",
+        "team": "CAR"
+    },
+    "17603": {
+        "name": "Brian Dumoulin",
+        "team": "PIT"
+    },
+    "34787": {
+        "name": "Brock Boeser",
+        "team": "VAN"
+    },
+    "21099": {
+        "name": "Brock McGinn",
+        "team": "CAR"
+    },
+    "13210": {
+        "name": "Brock Nelson",
+        "team": "NYI"
+    },
+    "24614": {
+        "name": "Bryan Rust",
+        "team": "PIT"
+    },
+    "6720": {
+        "name": "Cal Clutterbuck",
+        "team": "NYI"
+    },
+    "51031": {
+        "name": "Cale Makar",
+        "team": "COL"
+    },
+    "9820": {
+        "name": "Calle J\u00c3\u00a4rnkrok",
+        "team": "TOR"
+    },
+    "9389": {
+        "name": "Calvin de Haan",
+        "team": "CHI"
+    },
+    "8259": {
+        "name": "Cam Atkinson",
+        "team": "PHI"
+    },
+    "7899": {
+        "name": "Cam Fowler",
+        "team": "ANA"
+    },
+    "24862": {
+        "name": "Carl Grundstr\u00c3\u00b6m",
+        "team": "LAK"
+    },
+    "9371": {
+        "name": "Carl Hagelin",
+        "team": "WSH"
+    },
+    "10056": {
+        "name": "Carl S\u00c3\u00b6derberg",
+        "team": "COL"
+    },
+    "48248": {
+        "name": "Carson Soucy",
+        "team": "MIN"
+    },
+    "24622": {
+        "name": "Carter Verhaeghe",
+        "team": "FLA"
+    },
+    "9533": {
+        "name": "Casey Cizikas",
+        "team": "NYI"
+    },
+    "38366": {
+        "name": "Casey Mittelstadt",
+        "team": "BUF"
+    },
+    "24635": {
+        "name": "Chandler Stephenson",
+        "team": "VGK"
+    },
+    "15011": {
+        "name": "Charlie Coyle",
+        "team": "BOS"
+    },
+    "29043": {
+        "name": "Charlie McAvoy",
+        "team": "BOS"
+    },
+    "9562": {
+        "name": "Chris Kreider",
+        "team": "NYR"
+    },
+    "24866": {
+        "name": "Chris Tierney",
+        "team": "FLA"
+    },
+    "11708": {
+        "name": "Christian Djoos",
+        "team": "DET"
+    },
+    "27785": {
+        "name": "Christian Dvorak",
+        "team": "ARI"
+    },
+    "29034": {
+        "name": "Christian Fischer",
+        "team": "ARI"
+    },
+    "7980": {
+        "name": "Christopher Tanev",
+        "team": "CGY"
+    },
+    "6618": {
+        "name": "Claude Giroux",
+        "team": "OTT"
+    },
+    "29039": {
+        "name": "Clayton Keller",
+        "team": "ARI"
+    },
+    "20932": {
+        "name": "Cody Ceci",
+        "team": "PIT"
+    },
+    "43939": {
+        "name": "Cody Glass",
+        "team": "VGK"
+    },
+    "58547": {
+        "name": "Cole Caufield",
+        "team": "MTL"
+    },
+    "66731": {
+        "name": "Cole Perfetti",
+        "team": "WPG"
+    },
+    "66838": {
+        "name": "Cole Sillinger",
+        "team": "CBJ"
+    },
+    "48210": {
+        "name": "Colin Blackwell",
+        "team": "CHI"
+    },
+    "20983": {
+        "name": "Colin Miller",
+        "team": "DAL"
+    },
+    "29050": {
+        "name": "Colin White",
+        "team": "FLA"
+    },
+    "27690": {
+        "name": "Colton Parayko",
+        "team": "STL"
+    },
+    "7992": {
+        "name": "Colton Sceviour",
+        "team": "PIT"
+    },
+    "20986": {
+        "name": "Colton Sissons",
+        "team": "NSH"
+    },
+    "24898": {
+        "name": "Connor Brown",
+        "team": "WSH"
+    },
+    "23497": {
+        "name": "Connor McDavid",
+        "team": "EDM"
+    },
+    "17440": {
+        "name": "Connor Murphy",
+        "team": "CHI"
+    },
+    "33671": {
+        "name": "Conor Garland",
+        "team": "VAN"
+    },
+    "24596": {
+        "name": "Conor Sheary",
+        "team": "WSH"
+    },
+    "4629": {
+        "name": "Corey Perry",
+        "team": "MTL"
+    },
+    "8257": {
+        "name": "Craig Smith",
+        "team": "BOS"
+    },
+    "23494": {
+        "name": "Curtis Lazar",
+        "team": "BOS"
+    },
+    "21092": {
+        "name": "Damon Severson",
+        "team": "NJD"
+    },
+    "31124": {
+        "name": "Daniel Sprong",
+        "team": "WSH"
+    },
+    "16152": {
+        "name": "Danny DeKeyser",
+        "team": "DET"
+    },
+    "38223": {
+        "name": "Dante Fabbro",
+        "team": "NSH"
+    },
+    "38121": {
+        "name": "Danton Heinen",
+        "team": "ANA"
+    },
+    "24611": {
+        "name": "Darnell Nurse",
+        "team": "EDM"
+    },
+    "23509": {
+        "name": "David K\u00c3\u00a4mpf",
+        "team": "CHI"
+    },
+    "3085": {
+        "name": "David Krejc\u00c3\u00ad",
+        "team": "BOS"
+    },
+    "23511": {
+        "name": "David Pastrnak",
+        "team": "BOS"
+    },
+    "6667": {
+        "name": "David Perron",
+        "team": "DET"
+    },
+    "59613": {
+        "name": "Dawson Mercer",
+        "team": "NJD"
+    },
+    "24733": {
+        "name": "Denis Gurianov",
+        "team": "DAL"
+    },
+    "17518": {
+        "name": "Derek Forbort",
+        "team": "WPG"
+    },
+    "13170": {
+        "name": "Derek Grant",
+        "team": "ANA"
+    },
+    "24813": {
+        "name": "Derek Ryan",
+        "team": "CGY"
+    },
+    "6694": {
+        "name": "Derick Brassard",
+        "team": "ARI"
+    },
+    "27683": {
+        "name": "Devin Shore",
+        "team": "EDM"
+    },
+    "48277": {
+        "name": "Devon Toews",
+        "team": "COL"
+    },
+    "43819": {
+        "name": "Dillon Dube",
+        "team": "CGY"
+    },
+    "7553": {
+        "name": "Dmitry Orlov",
+        "team": "WSH"
+    },
+    "17341": {
+        "name": "Dominik Kahun",
+        "team": "EDM"
+    },
+    "25366": {
+        "name": "Dominik Kubalik",
+        "team": "DET"
+    },
+    "14599": {
+        "name": "Dougie Hamilton",
+        "team": "NJD"
+    },
+    "40934": {
+        "name": "Drake Batherson",
+        "team": "OTT"
+    },
+    "45990": {
+        "name": "Drake Caggiula",
+        "team": "PIT"
+    },
+    "6780": {
+        "name": "Drew Doughty",
+        "team": "LAK"
+    },
+    "690": {
+        "name": "Dustin Brown",
+        "team": "LAK"
+    },
+    "49579": {
+        "name": "Dylan Cozens",
+        "team": "BUF"
+    },
+    "48340": {
+        "name": "Dylan Gambrell",
+        "team": "SJS"
+    },
+    "25241": {
+        "name": "Dylan Larkin",
+        "team": "DET"
+    },
+    "34767": {
+        "name": "Dylan Strome",
+        "team": "WSH"
+    },
+    "38279": {
+        "name": "Eeli Tolvanen",
+        "team": "NSH"
+    },
+    "11742": {
+        "name": "Elias Lindholm",
+        "team": "CGY"
+    },
+    "38351": {
+        "name": "Elias Pettersson",
+        "team": "VAN"
+    },
+    "58433": {
+        "name": "Eric Robinson",
+        "team": "CBJ"
+    },
+    "5618": {
+        "name": "Eric Staal",
+        "team": "MTL"
+    },
+    "33263": {
+        "name": "Erik Br\u00c3\u00a4nnstr\u00c3\u00b6m",
+        "team": "OTT"
+    },
+    "23573": {
+        "name": "Erik Cernak",
+        "team": "TBL"
+    },
+    "11722": {
+        "name": "Erik Gustafsson",
+        "team": "MTL"
+    },
+    "17547": {
+        "name": "Erik Haula",
+        "team": "NJD"
+    },
+    "6942": {
+        "name": "Erik Karlsson",
+        "team": "SJS"
+    },
+    "12811": {
+        "name": "Esa Lindell",
+        "team": "DAL"
+    },
+    "41500": {
+        "name": "Evan Bouchard",
+        "team": "EDM"
+    },
+    "31138": {
+        "name": "Evan Rodrigues",
+        "team": "COL"
+    },
+    "6943": {
+        "name": "Evander Kane",
+        "team": "EDM"
+    },
+    "3661": {
+        "name": "Evgeni Malkin",
+        "team": "PIT"
+    },
+    "7058": {
+        "name": "Evgeny Dadonov",
+        "team": "MTL"
+    },
+    "7434": {
+        "name": "Evgeny Kuznetsov",
+        "team": "WSH"
+    },
+    "48603": {
+        "name": "Filip Chytil",
+        "team": "NYR"
+    },
+    "16239": {
+        "name": "Filip Forsberg",
+        "team": "NSH"
+    },
+    "27659": {
+        "name": "Filip Hronek",
+        "team": "DET"
+    },
+    "38253": {
+        "name": "Filip Zadina",
+        "team": "DET"
+    },
+    "25452": {
+        "name": "Frank Vatrano",
+        "team": "ANA"
+    },
+    "24881": {
+        "name": "Frederick Gaudreau",
+        "team": "PIT"
+    },
+    "8253": {
+        "name": "Gabriel Landeskog",
+        "team": "COL"
+    },
+    "41735": {
+        "name": "Gabriel Vilardi",
+        "team": "LAK"
+    },
+    "24547": {
+        "name": "Garnet Hathaway",
+        "team": "WSH"
+    },
+    "24823": {
+        "name": "Gustav Forsling",
+        "team": "FLA"
+    },
+    "9077": {
+        "name": "Gustav Nyquist",
+        "team": "CBJ"
+    },
+    "20771": {
+        "name": "Hampus Lindholm",
+        "team": "ANA"
+    },
+    "27691": {
+        "name": "Ilya Mikheyev",
+        "team": "TOR"
+    },
+    "33267": {
+        "name": "Isac Lundestr\u00c3\u00b6m",
+        "team": "ANA"
+    },
+    "23568": {
+        "name": "Ivan Barbashev",
+        "team": "STL"
+    },
+    "25194": {
+        "name": "Ivan Provorov",
+        "team": "PHI"
+    },
+    "25351": {
+        "name": "J.T. Compher",
+        "team": "COL"
+    },
+    "13670": {
+        "name": "J.T. Miller",
+        "team": "VAN"
+    },
+    "23714": {
+        "name": "Jaccob Slavin",
+        "team": "CAR"
+    },
+    "23616": {
+        "name": "Jack Eichel",
+        "team": "VGK"
+    },
+    "58552": {
+        "name": "Jack Hughes",
+        "team": "NJD"
+    },
+    "29044": {
+        "name": "Jack Roslovic",
+        "team": "CBJ"
+    },
+    "16885": {
+        "name": "Jacob Trouba",
+        "team": "NYR"
+    },
+    "9543": {
+        "name": "Jaden Schwartz",
+        "team": "SEA"
+    },
+    "43730": {
+        "name": "Jake Bean",
+        "team": "CAR"
+    },
+    "43999": {
+        "name": "Jake DeBrusk",
+        "team": "BOS"
+    },
+    "48302": {
+        "name": "Jake Evans",
+        "team": "MTL"
+    },
+    "37733": {
+        "name": "Jake Guentzel",
+        "team": "PIT"
+    },
+    "7906": {
+        "name": "Jake Muzzin",
+        "team": "TOR"
+    },
+    "38221": {
+        "name": "Jakob Chychrun",
+        "team": "ARI"
+    },
+    "9564": {
+        "name": "Jakob Silfverberg",
+        "team": "ANA"
+    },
+    "6771": {
+        "name": "Jakub Voracek",
+        "team": "PHI"
+    },
+    "13796": {
+        "name": "Jakub Vrana",
+        "team": "DET"
+    },
+    "6772": {
+        "name": "James Neal",
+        "team": "EDM"
+    },
+    "6937": {
+        "name": "James van Riemsdyk",
+        "team": "PHI"
+    },
+    "6946": {
+        "name": "Jamie Benn",
+        "team": "DAL"
+    },
+    "14906": {
+        "name": "Jamie Oleksiak",
+        "team": "DAL"
+    },
+    "37215": {
+        "name": "Janne Kuokkanen",
+        "team": "NJD"
+    },
+    "25169": {
+        "name": "Jared McCann",
+        "team": "SEA"
+    },
+    "7949": {
+        "name": "Jared Spurgeon",
+        "team": "MIN"
+    },
+    "44096": {
+        "name": "Jaret Anderson-Dolan",
+        "team": "LAK"
+    },
+    "25337": {
+        "name": "Jason Dickinson",
+        "team": "DAL"
+    },
+    "41454": {
+        "name": "Jason Robertson",
+        "team": "DAL"
+    },
+    "9547": {
+        "name": "Jason Zucker",
+        "team": "PIT"
+    },
+    "16237": {
+        "name": "Jean-Gabriel Pageau",
+        "team": "NYI"
+    },
+    "899": {
+        "name": "Jeff Carter",
+        "team": "PIT"
+    },
+    "7964": {
+        "name": "Jeff Petry",
+        "team": "PIT"
+    },
+    "7890": {
+        "name": "Jeff Skinner",
+        "team": "BUF"
+    },
+    "38348": {
+        "name": "Jesper Bratt",
+        "team": "NJD"
+    },
+    "9694": {
+        "name": "Jesper Fast",
+        "team": "CAR"
+    },
+    "48531": {
+        "name": "Jesperi Kotkaniemi",
+        "team": "CAR"
+    },
+    "24780": {
+        "name": "Jesse Puljuj\u00c3\u00a4rvi",
+        "team": "EDM"
+    },
+    "17430": {
+        "name": "Jimmy Vesey",
+        "team": "VAN"
+    },
+    "4578": {
+        "name": "Joe Pavelski",
+        "team": "DAL"
+    },
+    "5912": {
+        "name": "Joe Thornton",
+        "team": "TOR"
+    },
+    "12250": {
+        "name": "Joel Armia",
+        "team": "MTL"
+    },
+    "20947": {
+        "name": "Joel Edmundson",
+        "team": "MTL"
+    },
+    "24828": {
+        "name": "Joel Eriksson Ek",
+        "team": "MIN"
+    },
+    "48563": {
+        "name": "Joel Farabee",
+        "team": "PHI"
+    },
+    "22613": {
+        "name": "Joel Kiviranta",
+        "team": "DAL"
+    },
+    "9736": {
+        "name": "Johan Larsson",
+        "team": "ARI"
+    },
+    "6988": {
+        "name": "John Carlson",
+        "team": "WSH"
+    },
+    "9733": {
+        "name": "John Klingberg",
+        "team": "ANA"
+    },
+    "59196": {
+        "name": "John Leonard",
+        "team": "SJS"
+    },
+    "48316": {
+        "name": "John Marino",
+        "team": "NJD"
+    },
+    "6947": {
+        "name": "John Tavares",
+        "team": "TOR"
+    },
+    "17425": {
+        "name": "Johnny Gaudreau",
+        "team": "CBJ"
+    },
+    "9696": {
+        "name": "Jonas Brodin",
+        "team": "MIN"
+    },
+    "17301": {
+        "name": "Jonathan Drouin",
+        "team": "MTL"
+    },
+    "14600": {
+        "name": "Jonathan Huberdeau",
+        "team": "CGY"
+    },
+    "13250": {
+        "name": "Jonathan Marchessault",
+        "team": "VGK"
+    },
+    "6600": {
+        "name": "Jonathan Toews",
+        "team": "CHI"
+    },
+    "9287": {
+        "name": "Joonas Donskoi",
+        "team": "COL"
+    },
+    "7891": {
+        "name": "Jordan Eberle",
+        "team": "SEA"
+    },
+    "29037": {
+        "name": "Jordan Greenway",
+        "team": "MIN"
+    },
+    "38229": {
+        "name": "Jordan Kyrou",
+        "team": "STL"
+    },
+    "21002": {
+        "name": "Jordan Martinook",
+        "team": "CAR"
+    },
+    "24590": {
+        "name": "Jordan Oesterle",
+        "team": "ARI"
+    },
+    "5627": {
+        "name": "Jordan Staal",
+        "team": "CAR"
+    },
+    "9410": {
+        "name": "Jordie Benn",
+        "team": "TOR"
+    },
+    "23477": {
+        "name": "Josh Anderson",
+        "team": "MTL"
+    },
+    "17525": {
+        "name": "Josh Archibald",
+        "team": "PIT"
+    },
+    "13630": {
+        "name": "Josh Leivo",
+        "team": "CGY"
+    },
+    "23475": {
+        "name": "Josh Morrissey",
+        "team": "WPG"
+    },
+    "6813": {
+        "name": "Joshua Bailey",
+        "team": "NYI"
+    },
+    "48565": {
+        "name": "Joshua Norris",
+        "team": "OTT"
+    },
+    "24573": {
+        "name": "Jujhar Khaira",
+        "team": "EDM"
+    },
+    "8234": {
+        "name": "Justin Faulk",
+        "team": "STL"
+    },
+    "27597": {
+        "name": "Justin Holl",
+        "team": "TOR"
+    },
+    "14605": {
+        "name": "Justin Schultz",
+        "team": "SEA"
+    },
+    "28944": {
+        "name": "Juuso V\u00c3\u00a4lim\u00c3\u00a4ki",
+        "team": "CGY"
+    },
+    "57448": {
+        "name": "Kaapo Kakko",
+        "team": "NYR"
+    },
+    "38370": {
+        "name": "Kailer Yamamoto",
+        "team": "EDM"
+    },
+    "58541": {
+        "name": "KAndre Miller",
+        "team": "NYR"
+    },
+    "14107": {
+        "name": "Kasperi Kapanen",
+        "team": "PIT"
+    },
+    "44068": {
+        "name": "Keegan Kolesar",
+        "team": "VGK"
+    },
+    "23600": {
+        "name": "Kevin Fiala",
+        "team": "LAK"
+    },
+    "24711": {
+        "name": "Kevin Hayes",
+        "team": "PHI"
+    },
+    "25359": {
+        "name": "Kevin Labanc",
+        "team": "SJS"
+    },
+    "37854": {
+        "name": "Kevin Rooney",
+        "team": "CGY"
+    },
+    "7931": {
+        "name": "Kevin Shattenkirk",
+        "team": "ANA"
+    },
+    "25095": {
+        "name": "Kevin Stenlund",
+        "team": "CBJ"
+    },
+    "49631": {
+        "name": "Kirby Dach",
+        "team": "MTL"
+    },
+    "24740": {
+        "name": "Kirill Kaprizov",
+        "team": "MIN"
+    },
+    "3420": {
+        "name": "Kris Letang",
+        "team": "PIT"
+    },
+    "25239": {
+        "name": "Kyle Connor",
+        "team": "WPG"
+    },
+    "6696": {
+        "name": "Kyle Okposo",
+        "team": "BUF"
+    },
+    "7930": {
+        "name": "Kyle Palmieri",
+        "team": "NYI"
+    },
+    "6973": {
+        "name": "Lars Eller",
+        "team": "WSH"
+    },
+    "25175": {
+        "name": "Lawson Crouse",
+        "team": "ARI"
+    },
+    "17339": {
+        "name": "Leon Draisaitl",
+        "team": "EDM"
+    },
+    "6966": {
+        "name": "Logan Couture",
+        "team": "SJS"
+    },
+    "53435": {
+        "name": "Lucas Raymond",
+        "team": "DET"
+    },
+    "13489": {
+        "name": "Luke Glendening",
+        "team": "DET"
+    },
+    "29041": {
+        "name": "Luke Kunin",
+        "team": "SJS"
+    },
+    "24909": {
+        "name": "Mackenzie Weegar",
+        "team": "CGY"
+    },
+    "6691": {
+        "name": "Marc Staal",
+        "team": "FLA"
+    },
+    "9396": {
+        "name": "Marcus Foligno",
+        "team": "MIN"
+    },
+    "7900": {
+        "name": "Marcus Johansson",
+        "team": "MIN"
+    },
+    "51039": {
+        "name": "Mario Ferraro",
+        "team": "SJS"
+    },
+    "2000": {
+        "name": "Mark Giordano",
+        "team": "CGY"
+    },
+    "37862": {
+        "name": "Mark Jankowski",
+        "team": "PIT"
+    },
+    "8226": {
+        "name": "Mark Scheifele",
+        "team": "WPG"
+    },
+    "9563": {
+        "name": "Mark Stone",
+        "team": "VGK"
+    },
+    "20196": {
+        "name": "Markus Nutivaara",
+        "team": "FLA"
+    },
+    "48406": {
+        "name": "Martin Necas",
+        "team": "CAR"
+    },
+    "48323": {
+        "name": "Mason Appleton",
+        "team": "WPG"
+    },
+    "38063": {
+        "name": "Mason Marchment",
+        "team": "DAL"
+    },
+    "25165": {
+        "name": "Mathew Barzal",
+        "team": "NYI"
+    },
+    "20770": {
+        "name": "Mathew Dumba",
+        "team": "MIN"
+    },
+    "33766": {
+        "name": "Mathieu Joseph",
+        "team": "OTT"
+    },
+    "7961": {
+        "name": "Mats Zuccarello",
+        "team": "MIN"
+    },
+    "6932": {
+        "name": "Matt Duchene",
+        "team": "NSH"
+    },
+    "23610": {
+        "name": "Matt Grzelcyk",
+        "team": "BOS"
+    },
+    "48331": {
+        "name": "Matt Roy",
+        "team": "LAK"
+    },
+    "60423": {
+        "name": "Matthew Boldy",
+        "team": "MIN"
+    },
+    "7031": {
+        "name": "Matthew Martin",
+        "team": "NYI"
+    },
+    "29048": {
+        "name": "Matthew Tkachuk",
+        "team": "FLA"
+    },
+    "8256": {
+        "name": "Mattias Ekholm",
+        "team": "NSH"
+    },
+    "11729": {
+        "name": "Mattias Janmark-Nyl\u00c3\u00a9n",
+        "team": "EDM"
+    },
+    "67025": {
+        "name": "Matty Beniers",
+        "team": "SEA"
+    },
+    "26281": {
+        "name": "Max Domi",
+        "team": "CHI"
+    },
+    "41494": {
+        "name": "Max Jones",
+        "team": "ANA"
+    },
+    "6860": {
+        "name": "Max Pacioretty",
+        "team": "CAR"
+    },
+    "38222": {
+        "name": "Maxime Comtois",
+        "team": "ANA"
+    },
+    "51051": {
+        "name": "Michael Anderson",
+        "team": "LAK"
+    },
+    "31164": {
+        "name": "Michael Bunting",
+        "team": "EDM"
+    },
+    "6939": {
+        "name": "Michael Del Zotto",
+        "team": "FLA"
+    },
+    "27733": {
+        "name": "Michael Matheson",
+        "team": "MTL"
+    },
+    "38231": {
+        "name": "Michael Mcleod",
+        "team": "NJD"
+    },
+    "16776": {
+        "name": "Michael Raffl",
+        "team": "WSH"
+    },
+    "44134": {
+        "name": "Michael Rasmussen",
+        "team": "DET"
+    },
+    "8237": {
+        "name": "Mika Zibanejad",
+        "team": "NYR"
+    },
+    "6866": {
+        "name": "Mikael Backlund",
+        "team": "CGY"
+    },
+    "8957": {
+        "name": "Mikael Granlund",
+        "team": "NSH"
+    },
+    "9403": {
+        "name": "Mike Hoffman",
+        "team": "MTL"
+    },
+    "17435": {
+        "name": "Mike Reilly",
+        "team": "BOS"
+    },
+    "14606": {
+        "name": "Mikhail Grigorenko",
+        "team": "CBJ"
+    },
+    "38568": {
+        "name": "Mikhail Maltsev",
+        "team": "NJD"
+    },
+    "28987": {
+        "name": "Mikhail Sergachyov",
+        "team": "TBL"
+    },
+    "13827": {
+        "name": "Mikko Rantanen",
+        "team": "COL"
+    },
+    "6623": {
+        "name": "Milan Lucic",
+        "team": "CGY"
+    },
+    "26292": {
+        "name": "Miles Wood",
+        "team": "NJD"
+    },
+    "38271": {
+        "name": "Miro Heiskanen",
+        "team": "DAL"
+    },
+    "34766": {
+        "name": "Mitchell Marner",
+        "team": "TOR"
+    },
+    "17305": {
+        "name": "Morgan Rielly",
+        "team": "TOR"
+    },
+    "94064": {
+        "name": "Moritz Seider",
+        "team": "DET"
+    },
+    "20963": {
+        "name": "Nate Schmidt",
+        "team": "VAN"
+    },
+    "41521": {
+        "name": "Nathan Bastian",
+        "team": "NJD"
+    },
+    "17314": {
+        "name": "Nathan MacKinnon",
+        "team": "COL"
+    },
+    "7030": {
+        "name": "Nazem Kadri",
+        "team": "CGY"
+    },
+    "58009": {
+        "name": "Neal Pionk",
+        "team": "WPG"
+    },
+    "24580": {
+        "name": "Nic Dowd",
+        "team": "WSH"
+    },
+    "43822": {
+        "name": "Nicholas Merkley",
+        "team": "NJD"
+    },
+    "41629": {
+        "name": "Nicholas Suzuki",
+        "team": "MTL"
+    },
+    "16153": {
+        "name": "Nick Bjugstad",
+        "team": "ARI"
+    },
+    "7046": {
+        "name": "Nick Bonino",
+        "team": "MIN"
+    },
+    "13142": {
+        "name": "Nick Cousins",
+        "team": "FLA"
+    },
+    "13374": {
+        "name": "Nick Deslauriers",
+        "team": "ANA"
+    },
+    "6602": {
+        "name": "Nick Foligno",
+        "team": "BOS"
+    },
+    "23065": {
+        "name": "Nick Jensen",
+        "team": "WSH"
+    },
+    "7894": {
+        "name": "Nick Leddy",
+        "team": "NYI"
+    },
+    "26282": {
+        "name": "Nick Paul",
+        "team": "TBL"
+    },
+    "25334": {
+        "name": "Nick Ritchie",
+        "team": "BOS"
+    },
+    "26291": {
+        "name": "Nick Schmaltz",
+        "team": "ARI"
+    },
+    "6718": {
+        "name": "Nicklas B\u00c3\u00a4ckstr\u00c3\u00b6m",
+        "team": "WSH"
+    },
+    "28997": {
+        "name": "Nico Hischier",
+        "team": "NJD"
+    },
+    "26284": {
+        "name": "Nico Sturm",
+        "team": "SJS"
+    },
+    "33835": {
+        "name": "Nicolas Aube-Kubel",
+        "team": "TOR"
+    },
+    "38225": {
+        "name": "Nicolas Hague",
+        "team": "VGK"
+    },
+    "28918": {
+        "name": "Nicolas Roy",
+        "team": "VGK"
+    },
+    "8091": {
+        "name": "Nikita Gusev",
+        "team": "FLA"
+    },
+    "8092": {
+        "name": "Nikita Kucherov",
+        "team": "TBL"
+    },
+    "7867": {
+        "name": "Nikita Zaitsev",
+        "team": "OTT"
+    },
+    "44043": {
+        "name": "Nikolai Knyzhov",
+        "team": "SJS"
+    },
+    "26310": {
+        "name": "Nikolaj Ehlers",
+        "team": "WPG"
+    },
+    "53522": {
+        "name": "Nils Hoglander",
+        "team": "VAN"
+    },
+    "7907": {
+        "name": "Nino Niederreiter",
+        "team": "NSH"
+    },
+    "49180": {
+        "name": "Noah Dobson",
+        "team": "NYI"
+    },
+    "38224": {
+        "name": "Noah Gregor",
+        "team": "SJS"
+    },
+    "25240": {
+        "name": "Noah Hanifin",
+        "team": "CGY"
+    },
+    "31135": {
+        "name": "Noel Acciari",
+        "team": "STL"
+    },
+    "17471": {
+        "name": "Oliver Bjorkstrand",
+        "team": "SEA"
+    },
+    "7908": {
+        "name": "Oliver Ekman-Larsson",
+        "team": "ARI"
+    },
+    "20609": {
+        "name": "Oliver Kylington",
+        "team": "CGY"
+    },
+    "48572": {
+        "name": "Oliver Wahlstrom",
+        "team": "NYI"
+    },
+    "23508": {
+        "name": "Ondrej Kase",
+        "team": "CAR"
+    },
+    "13405": {
+        "name": "Ondrej Palat",
+        "team": "NJD"
+    },
+    "13794": {
+        "name": "Oscar Sundqvist",
+        "team": "STL"
+    },
+    "23698": {
+        "name": "Oskar Lindblom",
+        "team": "SJS"
+    },
+    "38237": {
+        "name": "Owen Tippett",
+        "team": "PHI"
+    },
+    "6773": {
+        "name": "Patric H\u00c3\u00b6rnqvist",
+        "team": "FLA"
+    },
+    "384": {
+        "name": "Patrice Bergeron",
+        "team": "BOS"
+    },
+    "6635": {
+        "name": "Patrick Kane",
+        "team": "CHI"
+    },
+    "9026": {
+        "name": "Patrick Maroon",
+        "team": "TBL"
+    },
+    "24761": {
+        "name": "Patrik Laine",
+        "team": "CBJ"
+    },
+    "9722": {
+        "name": "Patrik Nemeth",
+        "team": "ARI"
+    },
+    "7985": {
+        "name": "Paul Byron",
+        "team": "MTL"
+    },
+    "5651": {
+        "name": "Paul Stastny",
+        "team": "CAR"
+    },
+    "12975": {
+        "name": "Pavel Buchnevich",
+        "team": "STL"
+    },
+    "23516": {
+        "name": "Pavel Zacha",
+        "team": "BOS"
+    },
+    "2951": {
+        "name": "Phil Kessel",
+        "team": "VGK"
+    },
+    "38321": {
+        "name": "Philipp Kurashev",
+        "team": "CHI"
+    },
+    "33753": {
+        "name": "Philippe Myers",
+        "team": "TBL"
+    },
+    "13520": {
+        "name": "Phillip Danault",
+        "team": "LAK"
+    },
+    "25049": {
+        "name": "Pierre Engvall",
+        "team": "TOR"
+    },
+    "9817": {
+        "name": "Pierre-Edouard Bellemare",
+        "team": "COL"
+    },
+    "28911": {
+        "name": "Pierre-Luc Dubois",
+        "team": "WPG"
+    },
+    "25394": {
+        "name": "Pius Suter",
+        "team": "CHI"
+    },
+    "48555": {
+        "name": "Quinton Hughes",
+        "team": "VAN"
+    },
+    "17327": {
+        "name": "Radek Faksa",
+        "team": "DAL"
+    },
+    "13408": {
+        "name": "Radko Gudas",
+        "team": "FLA"
+    },
+    "25183": {
+        "name": "Rasmus Andersson",
+        "team": "CGY"
+    },
+    "24829": {
+        "name": "Rasmus Asplund",
+        "team": "BUF"
+    },
+    "46001": {
+        "name": "Rasmus Dahlin",
+        "team": "BUF"
+    },
+    "12238": {
+        "name": "Rasmus Ristolainen",
+        "team": "BUF"
+    },
+    "9546": {
+        "name": "Reilly Smith",
+        "team": "VGK"
+    },
+    "13403": {
+        "name": "Richard Panik",
+        "team": "DET"
+    },
+    "14598": {
+        "name": "Rickard Rakell",
+        "team": "PIT"
+    },
+    "9560": {
+        "name": "Riley Sheahan",
+        "team": "BUF"
+    },
+    "26283": {
+        "name": "Robby Fabbri",
+        "team": "DET"
+    },
+    "41501": {
+        "name": "Robert Thomas",
+        "team": "STL"
+    },
+    "17431": {
+        "name": "Rocco Grimaldi",
+        "team": "NSH"
+    },
+    "8255": {
+        "name": "Roman Josi",
+        "team": "NSH"
+    },
+    "22671": {
+        "name": "Roope Hintz",
+        "team": "DAL"
+    },
+    "48352": {
+        "name": "Ross Colton",
+        "team": "TBL"
+    },
+    "28962": {
+        "name": "Rudolfs Balcers",
+        "team": "FLA"
+    },
+    "34790": {
+        "name": "Ryan Donato",
+        "team": "SEA"
+    },
+    "24575": {
+        "name": "Ryan Dzingel",
+        "team": "OTT"
+    },
+    "9404": {
+        "name": "Ryan Ellis",
+        "team": "NSH"
+    },
+    "31176": {
+        "name": "Ryan Graves",
+        "team": "COL"
+    },
+    "17432": {
+        "name": "Ryan Hartman",
+        "team": "MIN"
+    },
+    "8258": {
+        "name": "Ryan Johansen",
+        "team": "NSH"
+    },
+    "38361": {
+        "name": "Ryan Lindgren",
+        "team": "NYR"
+    },
+    "7974": {
+        "name": "Ryan McDonagh",
+        "team": "NSH"
+    },
+    "16889": {
+        "name": "Ryan Murray",
+        "team": "EDM"
+    },
+    "8251": {
+        "name": "Ryan Nugent-Hopkins",
+        "team": "EDM"
+    },
+    "6933": {
+        "name": "Ryan O'Reilly",
+        "team": "STL"
+    },
+    "24640": {
+        "name": "Ryan Pulock",
+        "team": "NYI"
+    },
+    "8243": {
+        "name": "Ryan Strome",
+        "team": "ANA"
+    },
+    "5771": {
+        "name": "Ryan Suter",
+        "team": "DAL"
+    },
+    "25331": {
+        "name": "Sam Bennett",
+        "team": "FLA"
+    },
+    "6645": {
+        "name": "Sam Gagner",
+        "team": "WPG"
+    },
+    "23499": {
+        "name": "Sam Reinhart",
+        "team": "FLA"
+    },
+    "44023": {
+        "name": "Sam Steel",
+        "team": "MIN"
+    },
+    "33853": {
+        "name": "Samuel Blais",
+        "team": "STL"
+    },
+    "33788": {
+        "name": "Samuel Girard",
+        "team": "COL"
+    },
+    "14603": {
+        "name": "Scott Laughton",
+        "team": "PHI"
+    },
+    "20939": {
+        "name": "Scott Mayfield",
+        "team": "NYI"
+    },
+    "8241": {
+        "name": "Sean Couturier",
+        "team": "PHI"
+    },
+    "17433": {
+        "name": "Sean Kuraly",
+        "team": "BOS"
+    },
+    "20766": {
+        "name": "Sean Monahan",
+        "team": "MTL"
+    },
+    "60004": {
+        "name": "Sean Walker",
+        "team": "LAK"
+    },
+    "23797": {
+        "name": "Sebastian Aho",
+        "team": "CAR"
+    },
+    "17426": {
+        "name": "Seth Jones",
+        "team": "CHI"
+    },
+    "17436": {
+        "name": "Shayne Gostisbehere",
+        "team": "ARI"
+    },
+    "24610": {
+        "name": "Shea Theodore",
+        "team": "VGK"
+    },
+    "6223": {
+        "name": "Shea Weber",
+        "team": "MTL"
+    },
+    "1207": {
+        "name": "Sidney Crosby",
+        "team": "PIT"
+    },
+    "25237": {
+        "name": "Sonny Milano",
+        "team": "CGY"
+    },
+    "6748": {
+        "name": "Steven Stamkos",
+        "team": "TBL"
+    },
+    "7896": {
+        "name": "T.J. Brodie",
+        "team": "TOR"
+    },
+    "6776": {
+        "name": "T.J. Oshie",
+        "team": "WSH"
+    },
+    "29047": {
+        "name": "Tage Thompson",
+        "team": "BUF"
+    },
+    "43918": {
+        "name": "Tanner Jeannot",
+        "team": "NSH"
+    },
+    "27745": {
+        "name": "Tanner Kero",
+        "team": "DAL"
+    },
+    "16660": {
+        "name": "Tanner Pearson",
+        "team": "VAN"
+    },
+    "7895": {
+        "name": "Taylor Hall",
+        "team": "BOS"
+    },
+    "37732": {
+        "name": "Teodors Blueger",
+        "team": "PIT"
+    },
+    "12188": {
+        "name": "Teuvo Ter\u00c3\u00a4v\u00c3\u00a4inen",
+        "team": "CAR"
+    },
+    "28910": {
+        "name": "Thomas Chabot",
+        "team": "OTT"
+    },
+    "110548": {
+        "name": "Tim Stuetzle",
+        "team": "OTT"
+    },
+    "25396": {
+        "name": "Timo Meier",
+        "team": "SJS"
+    },
+    "16480": {
+        "name": "Tom Wilson",
+        "team": "WSH"
+    },
+    "16805": {
+        "name": "Tomas Hertl",
+        "team": "SJS"
+    },
+    "17463": {
+        "name": "Tomas Nosek",
+        "team": "VGK"
+    },
+    "7970": {
+        "name": "Tomas Tatar",
+        "team": "NJD"
+    },
+    "9552": {
+        "name": "Torey Krug",
+        "team": "STL"
+    },
+    "25562": {
+        "name": "Travis Boyd",
+        "team": "VAN"
+    },
+    "7946": {
+        "name": "Travis Hamonic",
+        "team": "VAN"
+    },
+    "25164": {
+        "name": "Travis Konecny",
+        "team": "PHI"
+    },
+    "25163": {
+        "name": "Travis Sanheim",
+        "team": "PHI"
+    },
+    "6852": {
+        "name": "Trevor Lewis",
+        "team": "WPG"
+    },
+    "51149": {
+        "name": "Trevor Moore",
+        "team": "LAK"
+    },
+    "60426": {
+        "name": "Trevor Zegras",
+        "team": "ANA"
+    },
+    "46004": {
+        "name": "Troy Stecher",
+        "team": "DET"
+    },
+    "29046": {
+        "name": "Troy Terry",
+        "team": "ANA"
+    },
+    "44107": {
+        "name": "Ty Smith",
+        "team": "PIT"
+    },
+    "27773": {
+        "name": "Tyler Bertuzzi",
+        "team": "DET"
+    },
+    "6957": {
+        "name": "Tyler Bozak",
+        "team": "STL"
+    },
+    "13401": {
+        "name": "Tyler Johnson",
+        "team": "CHI"
+    },
+    "23621": {
+        "name": "Tyler Motte",
+        "team": "VAN"
+    },
+    "6949": {
+        "name": "Tyler Myers",
+        "team": "VAN"
+    },
+    "13420": {
+        "name": "Tyler Pitlick",
+        "team": "ARI"
+    },
+    "7909": {
+        "name": "Tyler Seguin",
+        "team": "DAL"
+    },
+    "15894": {
+        "name": "Tyler Toffoli",
+        "team": "CGY"
+    },
+    "9521": {
+        "name": "Tyson Barrie",
+        "team": "EDM"
+    },
+    "38227": {
+        "name": "Tyson Jost",
+        "team": "COL"
+    },
+    "13818": {
+        "name": "Valeri Nichushkin",
+        "team": "COL"
+    },
+    "1726": {
+        "name": "Valtteri Filppula",
+        "team": "DET"
+    },
+    "6950": {
+        "name": "Victor Hedman",
+        "team": "TBL"
+    },
+    "21303": {
+        "name": "Victor Olofsson",
+        "team": "BUF"
+    },
+    "17399": {
+        "name": "Victor Rask",
+        "team": "MIN"
+    },
+    "9749": {
+        "name": "Viktor Arvidsson",
+        "team": "LAK"
+    },
+    "41543": {
+        "name": "Vince Dunn",
+        "team": "SEA"
+    },
+    "23713": {
+        "name": "Vince Hinostroza",
+        "team": "CHI"
+    },
+    "17427": {
+        "name": "Vincent Trocheck",
+        "team": "NYR"
+    },
+    "7759": {
+        "name": "Vladimir Tarasenko",
+        "team": "STL"
+    },
+    "23564": {
+        "name": "Vladislav Gavrikov",
+        "team": "CBJ"
+    },
+    "21044": {
+        "name": "Vladislav Namestnikov",
+        "team": "TBL"
+    },
+    "41451": {
+        "name": "Warren Foegele",
+        "team": "CAR"
+    },
+    "6787": {
+        "name": "Wayne Simmonds",
+        "team": "TOR"
+    },
+    "23609": {
+        "name": "Will Butcher",
+        "team": "DAL"
+    },
+    "24877": {
+        "name": "William Carrier",
+        "team": "VGK"
+    },
+    "13698": {
+        "name": "William Karlsson",
+        "team": "VGK"
+    },
+    "22615": {
+        "name": "William Nylander",
+        "team": "TOR"
+    },
+    "51076": {
+        "name": "Wyatt Kalynuk",
+        "team": "CHI"
+    },
+    "28630": {
+        "name": "Yakov Trenin",
+        "team": "NSH"
+    },
+    "13664": {
+        "name": "Yanni Gourde",
+        "team": "TBL"
+    },
+    "34760": {
+        "name": "Yegor Sharangovich",
+        "team": "NJD"
+    },
+    "51152": {
+        "name": "Zach Aston-Reese",
+        "team": "TOR"
+    },
+    "31146": {
+        "name": "Zach Hyman",
+        "team": "EDM"
+    },
+    "4536": {
+        "name": "Zach Parise",
+        "team": "MIN"
+    },
+    "58187": {
+        "name": "Zach Whitecloud",
+        "team": "VGK"
+    },
+    "45994": {
+        "name": "Zachary Sanford",
+        "team": "NSH"
+    },
+    "26294": {
+        "name": "Zachary Werenski",
+        "team": "CBJ"
+    }
+}
