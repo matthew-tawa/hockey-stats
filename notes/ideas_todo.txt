@@ -1,0 +1,20 @@
+- develop an ELO system for teams
+	i>see hockeyanalytics article
+	->factor in home ice advantage
+	->factor in winning margin
+	->zero sum (if winner gets 5, loser loses 5)
+	-> sims to run:
+		-> take data from 2013 onwards and compute ELO in 3 ways, see which predicts games best:
+			-> hard reset (each season teams start at 1500)
+			-> soft reset (each season teams lose/gain x% back towards 1500)
+			-> zero reset (each season teams lose/gain no ELO)
+	-> todo: get list of all NHL teams
+	-> todo: get list of all game results from 2013 onwards
+	-> todo: make script to run the ELO sims
+- in players_to_json.py, write code to create a second file that contains a list to lookup player id using player name
+
+- if i want to bet on players having a lot of shots:
+	-> look at payers with most shots in the league
+	-> look at teams with most shots in the league
+	-> look out for mismatches (good team vs really bad team)
+	-> 

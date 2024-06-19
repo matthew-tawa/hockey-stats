@@ -1,5 +1,4 @@
 import requests
-import pandas as pd
 import json
 
 url = 'https://api-web.nhle.com/v1/roster/TOR/current'
